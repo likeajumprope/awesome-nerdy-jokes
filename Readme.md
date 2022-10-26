@@ -3,3 +3,7 @@
 
 What did one support vector say to another? 
 - I feel so marginalized.
+
+
+How did the random variable get into the club?
+- By shoing a fake iid.
