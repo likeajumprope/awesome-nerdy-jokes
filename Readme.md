@@ -3,7 +3,8 @@
 ##  How to annoy yout colleagues
 ![](/img/dl_joke.jpeg)
 
-
+## Jokes by section
+<br>
 <details><summary>Machine learning</summary>
   <br>
 What did one support vector say to another? 
