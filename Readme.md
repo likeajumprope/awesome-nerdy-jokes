@@ -1,5 +1,9 @@
 # Collection of awesome nerdy jokes
 
+##  How to annoy yout colleagues
+![](/img/dl_joke.jpeg)
+
+
 <details><summary>Machine learning</summary>
   <br>
 What did one support vector say to another? 
