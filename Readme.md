@@ -1,4 +1,4 @@
-# Collection of awseome nerdy jokes
+# Collection of awesome nerdy jokes
 
 
 What did one support vector say to another? 
