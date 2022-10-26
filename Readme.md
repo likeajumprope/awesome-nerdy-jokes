@@ -1,6 +1,6 @@
 # Collection of awesome nerdy jokes
 
-##  How to annoy yout colleagues
+##  How to annoy your colleagues
 ![](/img/dl_joke.jpeg)
 
 ## Jokes by section
