@@ -6,4 +6,4 @@ What did one support vector say to another?
 
 
 How did the random variable get into the club?
-- By shoing a fake iid.
+- By showing a fake iid.
